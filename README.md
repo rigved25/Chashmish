@@ -1,2 +1,2 @@
 # Chashmish
-Dont be a Chashmish!
+Do not be a Chashmish!
